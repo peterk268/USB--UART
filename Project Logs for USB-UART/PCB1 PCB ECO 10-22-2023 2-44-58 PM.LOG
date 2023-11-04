@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=DATA_N New Net Name=NetD2_2
+Change Net Name : Old Net Name=DATA_P New Net Name=NetD1_2
+Add Differential Pair: Number of nets in differential pair NetD1_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD2_2 is 1 instead of 2
+Add Class Member: Failed to add class member : Component C5 Capacitor

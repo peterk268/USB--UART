@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VBUS Pin=P1-1
+Removed Pin From Net: NetName=VDD Pin=P1-5
+Added Pin To Net: NetName=VDD Pin=P1-1
+Added Pin To Net: NetName=VBUS Pin=P1-5
+Add Class Member: Failed to add class member : Component C5 Capacitor
